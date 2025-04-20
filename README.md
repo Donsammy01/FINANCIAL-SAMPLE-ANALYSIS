@@ -14,3 +14,6 @@ This sales data analysis project explores analyzing a company's sales data and i
 •	Are there specific categories driving overall performance?
 •	What factors correlate with high or low profitability?
 
+#Thanks
+
+
